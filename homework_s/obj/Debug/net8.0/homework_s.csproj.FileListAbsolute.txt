@@ -1,0 +1,14 @@
+C:\Users\79103\OneDrive\Рабочий стол\Geekbrains\01_CSHARP\Lesson4\homework_s\obj\Debug\net8.0\homework_s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79103\OneDrive\Рабочий стол\Geekbrains\01_CSHARP\Lesson4\homework_s\obj\Debug\net8.0\homework_s.AssemblyInfoInputs.cache
+C:\Users\79103\OneDrive\Рабочий стол\Geekbrains\01_CSHARP\Lesson4\homework_s\obj\Debug\net8.0\homework_s.AssemblyInfo.cs
+C:\Users\79103\OneDrive\Рабочий стол\Geekbrains\01_CSHARP\Lesson4\homework_s\obj\Debug\net8.0\homework_s.csproj.CoreCompileInputs.cache
+C:\Users\79103\OneDrive\Рабочий стол\Geekbrains\01_CSHARP\Lesson4\homework_s\bin\Debug\net8.0\homework_s.exe
+C:\Users\79103\OneDrive\Рабочий стол\Geekbrains\01_CSHARP\Lesson4\homework_s\bin\Debug\net8.0\homework_s.deps.json
+C:\Users\79103\OneDrive\Рабочий стол\Geekbrains\01_CSHARP\Lesson4\homework_s\bin\Debug\net8.0\homework_s.runtimeconfig.json
+C:\Users\79103\OneDrive\Рабочий стол\Geekbrains\01_CSHARP\Lesson4\homework_s\bin\Debug\net8.0\homework_s.dll
+C:\Users\79103\OneDrive\Рабочий стол\Geekbrains\01_CSHARP\Lesson4\homework_s\bin\Debug\net8.0\homework_s.pdb
+C:\Users\79103\OneDrive\Рабочий стол\Geekbrains\01_CSHARP\Lesson4\homework_s\obj\Debug\net8.0\homework_s.dll
+C:\Users\79103\OneDrive\Рабочий стол\Geekbrains\01_CSHARP\Lesson4\homework_s\obj\Debug\net8.0\refint\homework_s.dll
+C:\Users\79103\OneDrive\Рабочий стол\Geekbrains\01_CSHARP\Lesson4\homework_s\obj\Debug\net8.0\homework_s.pdb
+C:\Users\79103\OneDrive\Рабочий стол\Geekbrains\01_CSHARP\Lesson4\homework_s\obj\Debug\net8.0\homework_s.genruntimeconfig.cache
+C:\Users\79103\OneDrive\Рабочий стол\Geekbrains\01_CSHARP\Lesson4\homework_s\obj\Debug\net8.0\ref\homework_s.dll
